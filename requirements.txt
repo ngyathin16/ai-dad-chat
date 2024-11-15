@@ -1,0 +1,17 @@
+pandas
+torch
+transformers>=4.31.0
+datasets
+sentencepiece
+accelerate
+bitsandbytes>=0.39.0
+PyYAML
+jinja2
+tiktoken
+pydantic>=2
+Pillow
+fairscale
+fire 
+blobfile
+peft
+streamlit
